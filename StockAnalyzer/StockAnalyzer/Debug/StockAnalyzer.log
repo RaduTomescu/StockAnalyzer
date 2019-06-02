@@ -1,0 +1,22 @@
+﻿  Controller.cpp
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Interface.h(48): warning C4677: 'control': signature of non-private member contains assembly private type 'Controller'
+  c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Controller.h(8): note: see declaration of 'Controller'
+  FileReader.cpp
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Interface.h(48): warning C4677: 'control': signature of non-private member contains assembly private type 'Controller'
+  c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Controller.h(8): note: see declaration of 'Controller'
+  Interface.cpp
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Interface.h(48): warning C4677: 'control': signature of non-private member contains assembly private type 'Controller'
+  c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Controller.h(8): note: see declaration of 'Controller'
+  Main.cpp
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Interface.h(48): warning C4677: 'control': signature of non-private member contains assembly private type 'Controller'
+  c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\Controller.h(8): note: see declaration of 'Controller'
+Main.cpp(10): error C2976: 'std::array': too few template arguments
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(306): note: see declaration of 'std::array'
+Main.cpp(10): error C3699: '^': cannot use this indirection on type 'std::array'
+  Main.cpp(10): note: compiler replacing '^' with '*' to continue parsing
+  RollingMetric.cpp
+  StockCompany.cpp
+  StockData.cpp
+  Generating Code...
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\rollingmetric.cpp(129): warning C4715: 'RollingMetric::compareDates': not all control paths return a value
+c:\users\radu\documents\visual studio 2015\projects\stockanalyzer\stockanalyzer\rollingmetric.cpp(155): warning C4715: 'RollingMetric::bestCompanyPrice': not all control paths return a value
